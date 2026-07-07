@@ -1,9 +1,9 @@
 export const properties = [
   {
-    slug: "luks-2-1-kepez",
-    title: "Lüks 2+1 Daire",
-    price: "5.350.000 ₺",
-    location: "Antalya / Kepez / Fevzi Çakmak",
+    slug: "havuzlu-sitede-luks-daire-kepez-sutculer",
+    title: "Havuzlu Sitede Lüks Daire 2+1",
+    price: "4.650.000 ₺",
+    location: "Antalya / Kepez / Sütçüler - Habibler Mahallesi",
 
     images: [
       "/images/property1.jpg",
@@ -12,20 +12,20 @@ export const properties = [
       "/images/property1-4.jpg",
     ],
 
-    area: "110 m²",
+    area: "95 m²",
     room: "2+1",
-    bath: "2 Banyo",
-    floor: "1. Kat",
+    bath: "1 Banyo",
+    floor: "2. Ara Kat",
 
     description:
-      "Antalya Kepez Fevzi Çakmak Mahallesi'nde modern mimariye sahip, yatırım değeri yüksek lüks 2+1 daire.",
+      "Kepez Sütçüler Habibler Mahallesi'nde bulunan, havuzlu site içerisinde modern ve konforlu 2+1 lüks daire.",
   },
 
   {
-    slug: "3-1-dubleks-lara",
-    title: "3+1 Dubleks",
-    price: "7.950.000 ₺",
-    location: "Antalya / Muratpaşa / Lara",
+    slug: "kepez-varsak-menderes-1-1-daire",
+    title: "Yatırımlık 1+1 Daire",
+    price: "2.300.000 ₺",
+    location: "Antalya / Kepez / Varsak Menderes Mahallesi",
 
     images: [
       "/images/property2.jpg",
@@ -33,20 +33,20 @@ export const properties = [
       "/images/property2-3.jpg",
     ],
 
-    area: "180 m²",
-    room: "3+1",
-    bath: "2 Banyo",
-    floor: "2. Kat",
+    area: "60 m²",
+    room: "1+1",
+    bath: "1 Banyo",
+    floor: "3. Kat",
 
     description:
-      "Lara'da geniş aileler için tasarlanmış, denize yakın konumda lüks dubleks daire.",
+      "Kepez Varsak Menderes Mahallesi'nde yatırım için ideal, kullanışlı ve merkezi konumda 1+1 daire.",
   },
 
   {
-    slug: "luks-villa-dosemealti",
-    title: "Lüks Villa",
-    price: "12.500.000 ₺",
-    location: "Antalya / Döşemealtı",
+    slug: "kepez-sutculer-habibler-2-1-daire",
+    title: "Modern 2+1 Daire",
+    price: "3.650.000 ₺",
+    location: "Antalya / Kepez / Sütçüler - Habibler Mahallesi",
 
     images: [
       "/images/property3.jpg",
@@ -54,20 +54,20 @@ export const properties = [
       "/images/property3-3.jpg",
     ],
 
-    area: "320 m²",
-    room: "5+1",
-    bath: "4 Banyo",
-    floor: "Müstakil",
+    area: "90 m²",
+    room: "2+1",
+    bath: "1 Banyo",
+    floor: "1. Kat",
 
     description:
-      "Özel havuzlu, bahçeli ve yüksek yaşam standartlarına sahip lüks villa.",
+      "Kepez Sütçüler Habibler Mahallesi'nde konumlanan, geniş ve kullanışlı modern 2+1 daire.",
   },
 
   {
-    slug: "1-1-konyaalti",
-    title: "1+1 Yatırımlık Daire",
-    price: "3.890.000 ₺",
-    location: "Antalya / Konyaaltı",
+    slug: "kepez-varsak-aktoprak-havuzlu-sifir-site",
+    title: "Havuzlu Sıfır Sitede 2+1 Daire",
+    price: "4.100.000 ₺",
+    location: "Antalya / Kepez / Varsak Aktoprak Mahallesi",
 
     images: [
       "/images/property4.jpg",
@@ -75,12 +75,12 @@ export const properties = [
       "/images/property4-3.jpg",
     ],
 
-    area: "65 m²",
-    room: "1+1",
+    area: "95 m²",
+    room: "2+1",
     bath: "1 Banyo",
-    floor: "4. Kat",
+    floor: "2. Kat",
 
     description:
-      "Konyaaltı'nda kira getirisi yüksek, yatırım için ideal 1+1 daire.",
+      "Kepez Varsak Aktoprak Mahallesi'nde havuzlu sıfır site içerisinde, modern mimariye sahip 2+1 daire.",
   },
 ];

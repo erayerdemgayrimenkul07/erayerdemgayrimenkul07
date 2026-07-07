@@ -7,14 +7,14 @@ export default function Header() {
       <div className="container header-content">
 
         <Link href="/" className="logo">
-          <Image
-            src="/images/logo.png"
-            alt="Eray Erdem Gayrimenkul"
-            width={220}
-            height={60}
-            priority
-            className="logo-img"
-          />
+<Image
+  src="/images/logo.png"
+  alt="Eray Erdem Gayrimenkul"
+  width={220}
+  height={60}
+  priority
+  className="logo-img"
+/>
         </Link>
 
         <nav className="nav">
