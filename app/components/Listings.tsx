@@ -2,7 +2,6 @@ import { createClient } from "@/lib/supabase/server";
 import Image from "next/image";
 import Link from "next/link";
 import { Bed, MapPin, Ruler, ArrowRight } from "lucide-react";
-import "./Listings.css";
 
 
 export default async function Listings() {
